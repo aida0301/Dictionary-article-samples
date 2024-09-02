@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is the running example entry.-->
+<entry id="1257">
+  
+    <form>
+      <orths>
+        <orth type="main">Total Physical Response</orth>
+        <orth type="abbreviation"> TPR </orth>
+      </orths>  
+    </form>
+  
+        <gramGrp>
+          <pos>n</pos>
+        </gramGrp>
+  
+  <translation>Tолық физикалық елеу әдісі</translation>
+  
+        <sense>
+          <defs>
+           <def lang="eng">A method or approach to teaching in which the teacher presents language items in instructions and the learners have to do exactly what the teacher tells them.             </def>
+          <def lang="kaz">Тіл мен іс-қимылдың ара қатынасын белгілеу идеясына негізделген және тілді моториканы қолдану арқылы меңгеруді қажет ететін оқудың әдісі.</def>
+          </defs>
+  </sense>
+  
+    <examples> 
+      <example n="1">The teacher says:Stand up and the learners stand up;</example>
+<example n= "2">The teacher says: Walk to the window and the learners walk to a window in the classroom.</example></examples>
+  
+  <refs>
+    <ref>method</ref>
+    <ref>approach</ref>
+    <ref>items</ref>
+  </refs>
+  
+ <external-reference type="link">https://www.youtube.com/embed/WI8fE01QrrE</external-reference>
+</entry>

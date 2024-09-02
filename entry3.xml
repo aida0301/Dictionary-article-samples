@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is the running example entry.-->
+<entry id="1258">
+  
+    <form>
+      <orths>
+        <orth type="main">Brainstorm</orth>
+      </orths>  
+    </form>
+  
+        <gramGrp>
+          <pos>v</pos>
+        </gramGrp>
+  
+  <translation>Миға шабуыл</translation>
+  
+        <sense>
+          <defs>
+           <def lang="eng">To quickly think of ideas about a topic and also possibly note them down. This is often done as preparation before a writing or speaking activity.           </def>
+          <def lang="kaz">Оқушыларға басында немесе соңында сөйлемнің бөлігі берілетін және белгілі бір тілді қолдана отырып, сөйлемді аяқтауға негізделген тапсырма түрі.</def>
+          </defs>
+  </sense>
+  
+    <examples>
+      <example n="1">Before learners write a description of their city they make a list of all the positive and negative adjectives they know to describe places.</example>
+      <example n="2">Learners are given with papers and pencils to create a poster using words related to the specific topic </example>
+  </examples>
+  
+  <refs>
+    <ref>topic</ref>
+  </refs>
+  
+   <external-reference type="link">https://www.youtube.com/embed/GLpZ6RZHyoM</external-reference>
+</entry>

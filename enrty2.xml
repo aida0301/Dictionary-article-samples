@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is the running example entry.-->
+<entry id="1256">
+  
+    <form>
+      <orths>
+        <orth type="main">Sentence completion activity</orth>
+      </orths>  
+    </form>
+  
+        <gramGrp>
+          <pos>n</pos>
+        </gramGrp>
+  
+  <translation>Сөйлемді толықтыру жаттығуы</translation>
+  
+        <sense>
+          <defs>
+           <def lang="eng">In this task, learners are given parts of a sentence in the beginning or the end and asked to complete the sentence using specific target language.             </def>
+          <def lang="kaz">Оқушыларға басында немесе соңында сөйлемнің бөлігі берілетін және белгілі бір тілді қолдана отырып, сөйлемді аяқтауға негізделген тапсырма түрі.</def>
+          </defs>
+  </sense>
+  
+    <examples>
+      <example n="1">To practise using –ing forms: At the weekend, I love … ; </example> 
+  <example n="2"> In the evenings, I enjoy … .</example>
+  </examples>
+  
+  <refs>
+    <ref>target language</ref>
+  </refs>
+  
+ <external-reference type="link">https://learningapps.org/watch?app=7600906</external-reference>
+</entry>

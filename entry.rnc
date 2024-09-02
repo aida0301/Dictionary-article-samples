@@ -1,0 +1,17 @@
+element entry {
+	attribute id {xsd:integer},
+   
+    element form {element orths {element orth {attribute type 							{text},text}+}},
+
+    element gramGrp {element pos {text}},
+
+    element translation {text},
+
+    element sense {element defs {element def {attribute lang 							{text},text}+}},
+
+    element examples {element example {attribute n {text},text}+},
+   
+    element refs {element ref{text}+},
+    
+    element external-reference {attribute type {text}, text}
+  }

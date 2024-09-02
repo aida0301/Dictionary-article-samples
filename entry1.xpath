@@ -1,0 +1,4 @@
+//orth[@type = 'abbreviation']/text()
+(:
+this query yields the abbreviation type of the orthography
+:)
